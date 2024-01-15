@@ -1,4 +1,4 @@
-Disponible en campo de datos
+Disponible en DATACAMP
 
 La generación de recuperación aumentada, o RAG, es una técnica que se utiliza con modelos de lenguaje grandes para proporcionar contexto adicional sin ajustes ni reentrenamiento. Mejora la capacidad de los modelos lingüísticos para proporcionar respuestas objetivas, lo cual es una limitación de las configuraciones clásicas.
 
